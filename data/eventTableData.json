@@ -1,0 +1,562 @@
+{
+  "eventHistoryTableData": [
+    {
+      "event name": "Tech Conference 2023",
+      "date": "2023-05-12",
+      "speaker": "Dr. Emily Carter",
+      "status": "Completed"
+    },
+    {
+      "event name": "AI Summit",
+      "date": "2024-11-15",
+      "speaker": "John Matthews",
+      "status": "In Progress"
+    },
+    {
+      "event name": "Web Dev Workshop",
+      "date": "2024-06-08",
+      "speaker": "Stanley Azi",
+      "status": "Completed"
+    },
+    {
+      "event name": "JavaScript Conference",
+      "date": "2023-06-12",
+      "speaker": "Samuel Green",
+      "status": "Completed"
+    },
+    {
+      "event name": "Future of Tech",
+      "date": "2023-06-15",
+      "speaker": "Olivia Brown",
+      "status": "In Progress"
+    },
+    {
+      "event name": "Data Science Expo",
+      "date": "2023-07-10",
+      "speaker": "Dr. Michael Fox",
+      "status": "Completed"
+    },
+    {
+      "event name": "Startup Pitch Night",
+      "date": "2023-07-13",
+      "speaker": "Sophia Wang",
+      "status": "In Progress"
+    },
+    {
+      "event name": "Python Workshop",
+      "date": "2023-07-20",
+      "speaker": "Christopher King",
+      "status": "Completed"
+    },
+    {
+      "event name": "Mobile Dev Summit",
+      "date": "2023-08-01",
+      "speaker": "Anna Thompson",
+      "status": "Completed"
+    },
+    {
+      "event name": "Innovation in HealthTech",
+      "date": "2023-08-05",
+      "speaker": "Dr. Liam Moore",
+      "status": "In Progress"
+    },
+    {
+      "event name": "Machine Learning 101",
+      "date": "2023-08-10",
+      "speaker": "Elizabeth Evans",
+      "status": "Completed"
+    },
+    {
+      "event name": "UX/UI Conference",
+      "date": "2023-08-15",
+      "speaker": "Henry James",
+      "status": "In Progress"
+    },
+    {
+      "event name": "Robotics Workshop",
+      "date": "2023-09-01",
+      "speaker": "Chloe Taylor",
+      "status": "Completed"
+    },
+    {
+      "event name": "JavaScript Frameworks",
+      "date": "2024-09-25",
+      "speaker": "River Bell",
+      "status": "In Progress"
+    },
+    {
+      "event name": "Startups in AI",
+      "date": "2024-10-01",
+      "speaker": "Phoenix Gomez",
+      "status": "Completed"
+    },
+    {
+      "event name": "Web 3.0 Development",
+      "date": "2024-10-05",
+      "speaker": "Ari Murphy",
+      "status": "In Progress"
+    },
+    {
+      "event name": "Augmented Reality Basics",
+      "date": "2024-10-10",
+      "speaker": "Robin Foster",
+      "status": "Completed"
+    },
+    {
+      "event name": "Coding for Kids",
+      "date": "2024-10-15",
+      "speaker": "Remi Carter",
+      "status": "In Progress"
+    },
+    {
+      "event name": "Tech Innovations Summit",
+      "date": "2024-11-01",
+      "speaker": "Drew Rodriguez",
+      "status": "Completed"
+    },
+    {
+      "event name": "Quantum Computing Basics",
+      "date": "2024-11-05",
+      "speaker": "Ash Thomas",
+      "status": "In Progress"
+    },
+    {
+      "event name": "Full-Stack Development 2024",
+      "date": "2024-11-10",
+      "speaker": "Raven Diaz",
+      "status": "Completed"
+    },
+    {
+      "event name": "VR Development Workshop",
+      "date": "2024-11-15",
+      "speaker": "Sammy Price",
+      "status": "Completed"
+    },
+    {
+      "event name": "Data Analysis Essentials",
+      "date": "2024-11-20",
+      "speaker": "Rio Brown",
+      "status": "In Progress"
+    },
+    {
+      "event name": "Blockchain Basics",
+      "date": "2023-09-05",
+      "speaker": "Alexander Harris",
+      "status": "Completed"
+    },
+    {
+      "event name": "Marketing in Tech",
+      "date": "2023-09-10",
+      "speaker": "Zoe Clark",
+      "status": "In Progress"
+    },
+    {
+      "event name": "Software Engineering Expo",
+      "date": "2023-09-15",
+      "speaker": "Nathan Baker",
+      "status": "Completed"
+    },
+    {
+      "event name": "Networking Event",
+      "date": "2023-09-20",
+      "speaker": "Amelia Lewis",
+      "status": "In Progress"
+    },
+    {
+      "event name": "Game Dev Conference",
+      "date": "2023-09-25",
+      "speaker": "Jack Wilson",
+      "status": "Completed"
+    },
+    {
+      "event name": "Cybersecurity Talk",
+      "date": "2023-09-30",
+      "speaker": "Emily Hall",
+      "status": "In Progress"
+    },
+    {
+      "event name": "Database Management",
+      "date": "2023-10-01",
+      "speaker": "Liam Adams",
+      "status": "Completed"
+    },
+    {
+      "event name": "Cloud Computing Basics",
+      "date": "2023-10-05",
+      "speaker": "Sophia Collins",
+      "status": "Completed"
+    },
+    {
+      "event name": "Artificial Intelligence Conference",
+      "date": "2023-10-08",
+      "speaker": "Benjamin Perez",
+      "status": "In Progress"
+    },
+    {
+      "event name": "Front-End Frameworks",
+      "date": "2023-10-15",
+      "speaker": "Ava Robinson",
+      "status": "Completed"
+    },
+    {
+      "event name": "VR/AR in Tech",
+      "date": "2023-10-20",
+      "speaker": "Oliver Wright",
+      "status": "In Progress"
+    },
+    {
+      "event name": "Advanced JavaScript",
+      "date": "2023-10-25",
+      "speaker": "Sophia Martinez",
+      "status": "Completed"
+    },
+    {
+      "event name": "Internet of Things",
+      "date": "2023-11-01",
+      "speaker": "Isabella King",
+      "status": "Completed"
+    },
+    {
+      "event name": "React Workshop",
+      "date": "2023-11-05",
+      "speaker": "Lucas Lee",
+      "status": "In Progress"
+    },
+    {
+      "event name": "Leadership in Tech",
+      "date": "2023-11-10",
+      "speaker": "Mason Allen",
+      "status": "Completed"
+    },
+    {
+      "event name": "Full-Stack Development",
+      "date": "2023-11-15",
+      "speaker": "Stanley Azi",
+      "status": "In Progress"
+    },
+    {
+      "event name": "Networking Basics",
+      "date": "2023-11-20",
+      "speaker": "Ethan Scott",
+      "status": "In Progress"
+    },
+    {
+      "event name": "Product Management Essentials",
+      "date": "2023-11-25",
+      "speaker": "Lily Hernandez",
+      "status": "Completed"
+    },
+    {
+      "event name": "Quantum Computing",
+      "date": "2023-12-01",
+      "speaker": "Harper Lewis",
+      "status": "Completed"
+    },
+    {
+      "event name": "Data Analytics Workshop",
+      "date": "2023-12-05",
+      "speaker": "Sebastian Walker",
+      "status": "In Progress"
+    },
+    {
+      "event name": "Ethics in AI",
+      "date": "2023-12-10",
+      "speaker": "Eleanor Rodriguez",
+      "status": "Completed"
+    },
+    {
+      "event name": "Software Architecture",
+      "date": "2023-12-15",
+      "speaker": "David Green",
+      "status": "In Progress"
+    },
+    {
+      "event name": "Serverless Computing",
+      "date": "2023-12-20",
+      "speaker": "Isla Torres",
+      "status": "Completed"
+    },
+    {
+      "event name": "Tech Ethics",
+      "date": "2024-01-02",
+      "speaker": "Noah Roberts",
+      "status": "In Progress"
+    },
+    {
+      "event name": "Mobile UX Design",
+      "date": "2024-01-05",
+      "speaker": "Aiden Nelson",
+      "status": "Completed"
+    },
+    {
+      "event name": "Cloud Security",
+      "date": "2024-01-10",
+      "speaker": "Penelope Miller",
+      "status": "Completed"
+    },
+    {
+      "event name": "AI for Healthcare",
+      "date": "2024-01-15",
+      "speaker": "Sophia Smith",
+      "status": "In Progress"
+    },
+    {
+      "event name": "Intro to Blockchain",
+      "date": "2024-01-20",
+      "speaker": "Liam Jones",
+      "status": "Completed"
+    },
+    {
+      "event name": "Front-End Frameworks",
+      "date": "2024-02-01",
+      "speaker": "John Taylor",
+      "status": "Completed"
+    },
+    {
+      "event name": "Microservices Architecture",
+      "date": "2024-02-05",
+      "speaker": "Olivia Brown",
+      "status": "In Progress"
+    },
+    {
+      "event name": "Innovation in MedTech",
+      "date": "2024-02-10",
+      "speaker": "Ava King",
+      "status": "Completed"
+    },
+    {
+      "event name": "Advanced Data Science",
+      "date": "2024-02-15",
+      "speaker": "Emma Davis",
+      "status": "Completed"
+    },
+    {
+      "event name": "Tech Startups 101",
+      "date": "2024-02-20",
+      "speaker": "James Wilson",
+      "status": "In Progress"
+    },
+    {
+      "event name": "Database Fundamentals",
+      "date": "2024-03-01",
+      "speaker": "Logan White",
+      "status": "Completed"
+    },
+    {
+      "event name": "Mobile Dev Crash Course",
+      "date": "2024-03-05",
+      "speaker": "Henry Harris",
+      "status": "In Progress"
+    },
+    {
+      "event name": "Software Project Management",
+      "date": "2024-03-10",
+      "speaker": "Charlotte Martinez",
+      "status": "Completed"
+    },
+    {
+      "event name": "JavaScript Best Practices",
+      "date": "2024-03-15",
+      "speaker": "Sebastian Moore",
+      "status": "Completed"
+    },
+    {
+      "event name": "Leadership in Engineering",
+      "date": "2024-03-20",
+      "speaker": "Chloe Brown",
+      "status": "In Progress"
+    },
+    {
+      "event name": "Augmented Reality",
+      "date": "2024-04-01",
+      "speaker": "Avery Martinez",
+      "status": "Completed"
+    },
+    {
+      "event name": "5G Networks",
+      "date": "2024-04-05",
+      "speaker": "Zachary Evans",
+      "status": "Completed"
+    },
+    {
+      "event name": "Startups in Tech",
+      "date": "2024-04-10",
+      "speaker": "Grace Roberts",
+      "status": "In Progress"
+    },
+    {
+      "event name": "AI Ethics",
+      "date": "2024-04-15",
+      "speaker": "Camila Green",
+      "status": "Completed"
+    },
+    {
+      "event name": "Python for Data Science",
+      "date": "2024-04-20",
+      "speaker": "Lucas Adams",
+      "status": "In Progress"
+    },
+    {
+      "event name": "Digital Transformation",
+      "date": "2024-05-01",
+      "speaker": "Sofia Scott",
+      "status": "Completed"
+    },
+    {
+      "event name": "Security in AI",
+      "date": "2024-05-05",
+      "speaker": "Levi Martin",
+      "status": "In Progress"
+    },
+    {
+      "event name": "Cybersecurity Workshop",
+      "date": "2024-05-10",
+      "speaker": "Harper Young",
+      "status": "Completed"
+    },
+    {
+      "event name": "Internet of Things 101",
+      "date": "2024-05-15",
+      "speaker": "Hudson King",
+      "status": "Completed"
+    },
+    {
+      "event name": "Machine Learning in Action",
+      "date": "2024-05-20",
+      "speaker": "Riley Brown",
+      "status": "In Progress"
+    },
+    {
+      "event name": "AI Tools for Devs",
+      "date": "2024-06-01",
+      "speaker": "Hazel Gonzalez",
+      "status": "Completed"
+    },
+    {
+      "event name": "Ethics of Tech",
+      "date": "2024-06-05",
+      "speaker": "Brandon Torres",
+      "status": "In Progress"
+    },
+    {
+      "event name": "Big Data in Action",
+      "date": "2024-06-10",
+      "speaker": "Nevaeh Clark",
+      "status": "Completed"
+    },
+    {
+      "event name": "Programming Basics",
+      "date": "2024-06-15",
+      "speaker": "Everly Young",
+      "status": "In Progress"
+    },
+    {
+      "event name": "Responsive Design",
+      "date": "2024-07-01",
+      "speaker": "Cooper Miller",
+      "status": "Completed"
+    },
+    {
+      "event name": "Web Development Crash Course",
+      "date": "2024-07-05",
+      "speaker": "Bentley Smith",
+      "status": "Completed"
+    },
+    {
+      "event name": "Blockchain Security",
+      "date": "2024-07-10",
+      "speaker": "Ariya Lee",
+      "status": "In Progress"
+    },
+    {
+      "event name": "Networking 101",
+      "date": "2024-07-15",
+      "speaker": "Dallas Perez",
+      "status": "Completed"
+    },
+    {
+      "event name": "Web 3.0 Innovations",
+      "date": "2024-08-01",
+      "speaker": "Kasey Murphy",
+      "status": "Completed"
+    },
+    {
+      "event name": "Robotic Process Automation",
+      "date": "2024-08-05",
+      "speaker": "Jade Lopez",
+      "status": "In Progress"
+    },
+    {
+      "event name": "Cross-Platform Dev",
+      "date": "2024-08-10",
+      "speaker": "Spencer Evans",
+      "status": "Completed"
+    },
+    {
+      "event name": "Tech Product Design",
+      "date": "2024-08-15",
+      "speaker": "Rylan Murphy",
+      "status": "Completed"
+    },
+    {
+      "event name": "Data Science in 2024",
+      "date": "2024-08-20",
+      "speaker": "Elliot Reed",
+      "status": "In Progress"
+    },
+    {
+      "event name": "Leadership for Innovators",
+      "date": "2024-09-01",
+      "speaker": "Justice Watson",
+      "status": "Completed"
+    },
+    {
+      "event name": "Intro to Quantum Tech",
+      "date": "2024-09-05",
+      "speaker": "Oakley Sanders",
+      "status": "In Progress"
+    },
+    {
+      "event name": "Python for Beginners",
+      "date": "2024-09-10",
+      "speaker": "Skye Thompson",
+      "status": "Completed"
+    },
+    {
+      "event name": "Coding Bootcamp",
+      "date": "2024-09-15",
+      "speaker": "Peyton Kelly",
+      "status": "In Progress"
+    },
+    {
+      "event name": "Intro to Cloud Computing",
+      "date": "2024-09-20",
+      "speaker": "Sterling Price",
+      "status": "Completed"
+    },
+    {
+      "event name": "AI Trends in Tech",
+      "date": "2024-12-01",
+      "speaker": "Rory Anderson",
+      "status": "Completed"
+    },
+    {
+      "event name": "JavaScript for Beginners",
+      "date": "2024-12-05",
+      "speaker": "Kai Carter",
+      "status": "In Progress"
+    },
+    {
+      "event name": "Cloud Tech Innovations",
+      "date": "2024-12-10",
+      "speaker": "Dakota Cruz",
+      "status": "Completed"
+    },
+    {
+      "event name": "Ethics of Data",
+      "date": "2024-12-15",
+      "speaker": "Jordan Sanchez",
+      "status": "In Progress"
+    }
+  ]
+}

@@ -1,0 +1,426 @@
+.ballToggledToLightMode {
+  justify-content: flex-start !important;
+  background-color: var(--clr-light-gray) !important;
+}
+
+.ballToggledToDarkMode {
+  justify-content: flex-end !important;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --clr-primary: #ffffff;
+    --clr-secondary: #000000;
+    --clr-accent: #ffffff;
+
+    --bg-primary: #383544;
+    --bg-secondary: #484554;
+    --bg-accent: #8576ff;
+  }
+
+  header {
+    background-color: var(--bg-secondary);
+  }
+
+  .toggle-btns-container .toggle-menu,
+  .toggle-btns-container .toggle-theme {
+    &:hover {
+      & .theme-toggle-ball-container {
+        border: 1px solid var(--clr-accent);
+      }
+    }
+  }
+
+  .toggle-theme .theme-toggle-ball-container {
+    background-color: var(--bg-accent);
+    justify-content: flex-end;
+
+    & .theme-toggle-ball {
+      background-color: var(--clr-accent);
+    }
+  }
+
+  header .nav-wrapper .user-profile-container {
+    &:hover {
+      background-color: var(--bg-accent);
+
+      & p {
+        color: var(--clr-primary) !important;
+      }
+    }
+  }
+
+  main .event-history .legend-options-container {
+    & span {
+      & input,
+      & select {
+        background-color: var(--bg-secondary);
+        border: 1px solid var(--bg-secondary);
+      }
+    }
+
+    & .other-options-btn,
+    & .export-btn {
+      background-color: var(--bg-secondary);
+      border: 1px solid var(--bg-secondary);
+    }
+  }
+
+  main .summary-container .quick-stats div,
+  main .summary-container .bar-chart-section .bar-chart-container {
+    border: none;
+    background-color: var(--bg-secondary);
+  }
+
+  main .event-history .event-history-table {
+    & thead tr {
+      background-color: var(--bg-secondary);
+    }
+
+    & tbody tr {
+      background-color: var(--bg-secondary);
+
+      & .in-progress {
+        background-color: unset;
+        border: 1px solid var(--clr-blue);
+      }
+
+      & .completed {
+        background-color: unset;
+        border: 1px solid var(--clr-green);
+      }
+    }
+  }
+
+  main .event-history .event-history-table-ftr {
+    & .event-h-t-prev-btn,
+    & .event-h-t-next-btn,
+    & .table-page {
+      background-color: var(--bg-secondary);
+
+      & svg {
+        & path {
+          stroke: var(--clr-purple);
+        }
+      }
+    }
+
+    & .label-row-count {
+      & span {
+        & select {
+          border: 1px solid var(--bg-secondary);
+          background-color: var(--bg-secondary);
+        }
+
+        & svg {
+          & path {
+            stroke: var(--clr-primary);
+          }
+        }
+      }
+    }
+  }
+
+  @media screen and (max-width: 824px) {
+    header {
+      & .logo-container {
+        background-color: var(--bg-secondary);
+
+        & .mobile-menu {
+          & svg {
+            & path {
+              stroke: var(--clr-primary);
+            }
+          }
+
+          &[aria-expanded="true"] {
+            background-color: var(--clr-light-gray);
+
+            & .close-mobile-menu {
+              & path {
+                stroke: var(--clr-secondary);
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+.dark {
+  :root {
+    --clr-primary: #ffffff;
+    --clr-secondary: #000000;
+    --clr-accent: #ffffff;
+
+    --bg-primary: #383544;
+    --bg-secondary: #484554;
+    --bg-accent: #8576ff;
+  }
+
+  header {
+    background-color: var(--bg-secondary);
+    border: unset;
+  }
+
+  .toggle-btns-container .toggle-menu,
+  .toggle-btns-container .toggle-theme {
+    &:hover {
+      & .theme-toggle-ball-container {
+        border: 1px solid var(--clr-accent);
+      }
+    }
+  }
+
+  .toggle-theme .theme-toggle-ball-container {
+    background-color: var(--bg-accent);
+    justify-content: flex-end;
+
+    & .theme-toggle-ball {
+      background-color: var(--clr-accent);
+    }
+  }
+
+  header .nav-wrapper .user-profile-container {
+    &:hover {
+      background-color: var(--bg-accent);
+
+      & p {
+        color: var(--clr-primary) !important;
+      }
+    }
+  }
+
+  main .event-history .legend-options-container {
+    & span {
+      & input,
+      & select {
+        background-color: var(--bg-secondary);
+        border: 1px solid var(--bg-secondary);
+      }
+    }
+
+    & .other-options-btn,
+    & .export-btn {
+      background-color: var(--bg-secondary);
+      border: 1px solid var(--bg-secondary);
+    }
+  }
+
+  main .summary-container .quick-stats div,
+  main .summary-container .bar-chart-section .bar-chart-container {
+    border: none;
+    background-color: var(--bg-secondary);
+  }
+
+  main .event-history .event-history-table {
+    & thead tr {
+      background-color: var(--bg-secondary);
+    }
+
+    & tbody tr {
+      background-color: var(--bg-secondary);
+
+      & .in-progress {
+        background-color: unset;
+        border: 1px solid var(--clr-blue);
+      }
+
+      & .completed {
+        background-color: unset;
+        border: 1px solid var(--clr-green);
+      }
+    }
+
+    @media screen and (max-width: 824px) {
+      header {
+        & .logo-container {
+          background-color: var(--bg-secondary);
+
+          & .mobile-menu {
+            & svg {
+              & path {
+                stroke: var(--clr-primary);
+              }
+            }
+
+            &[aria-expanded="true"] {
+              background-color: var(--clr-light-gray);
+
+              & .close-mobile-menu {
+                & path {
+                  stroke: var(--clr-secondary);
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+
+  main .event-history .event-history-table-ftr {
+    & .event-h-t-prev-btn,
+    & .event-h-t-next-btn,
+    & .table-page {
+      background-color: var(--bg-secondary);
+
+      & svg {
+        & path {
+          stroke: var(--clr-purple);
+        }
+      }
+    }
+
+    & .label-row-count {
+      & span {
+        & select {
+          border: 1px solid var(--bg-secondary);
+          background-color: var(--bg-secondary);
+        }
+
+        & svg {
+          & path {
+            stroke: var(--clr-primary);
+          }
+        }
+      }
+    }
+  }
+}
+
+.light {
+  --clr-primary: #000000;
+  --clr-secondary: #ffffff;
+  --clr-accent: #8576ff;
+
+  --bg-primary: #ffffff;
+  --bg-secondary: #fcf7ff;
+  --bg-accent: #fcf7ff;
+
+  header {
+    background-color: var(--bg-primary);
+  }
+
+  .toggle-btns-container .toggle-menu,
+  .toggle-btns-container .toggle-theme {
+    &:hover {
+      & .theme-toggle-ball-container {
+        border: 1px solid var(--clr-accent);
+      }
+    }
+  }
+
+  .toggle-theme .theme-toggle-ball-container {
+    background-color: var(--bg-accent);
+    justify-content: flex-end;
+
+    & .theme-toggle-ball {
+      background-color: var(--bg-accent);
+    }
+  }
+
+  header .nav-wrapper .user-profile-container {
+    &:hover {
+      background-color: var(--bg-accent);
+
+      & p {
+        color: var(--clr-primary) !important;
+      }
+    }
+  }
+
+  main .event-history .legend-options-container {
+    & span {
+      & input,
+      & select {
+        background-color: var(--bg-primary);
+        border: 1px solid var(--clr-light-gray);
+      }
+    }
+
+    & .other-options-btn,
+    & .export-btn {
+      border: 1px solid var(--clr-light-gray);
+      background-color: unset;
+    }
+  }
+
+  main .summary-container .quick-stats div,
+  main .summary-container .bar-chart-section .bar-chart-container {
+    border: 1px solid var(--clr-light-gray);
+    background-color: unset;
+  }
+
+  main .event-history .event-history-table {
+    & thead tr {
+      background-color: var(--clr-light-gray);
+    }
+
+    & tbody tr {
+      background-color: var(--bg-primary);
+
+      & .in-progress {
+        background-color: var(--clr-light-blue);
+        border: none;
+      }
+
+      & .completed {
+        background-color: var(--clr-light-green);
+        border: none;
+      }
+    }
+  }
+
+  main .event-history .event-history-table-ftr {
+    & .event-h-t-prev-btn,
+    & .event-h-t-next-btn,
+    & .table-page {
+      background-color: var(--clr-light-gray);
+      color: var(--clr-white);
+
+      & svg {
+        & path {
+          stroke: var(--clr-primary);
+        }
+      }
+    }
+
+    & .label-row-count {
+      & span {
+        & select {
+          border: 1px solid var(--clr-light-gray);
+          background-color: unset;
+        }
+      }
+    }
+  }
+
+  @media screen and (max-width: 824px) {
+    header {
+      & .logo-container {
+        background-color: var(--bg-primary);
+
+        & .mobile-menu {
+          & svg {
+            & path {
+              stroke: var(--clr-primary);
+            }
+          }
+
+          &[aria-expanded="true"] {
+            background-color: unset;
+            border-color: var(--clr-light-gray);
+
+            & .close-mobile-menu {
+              & path {
+                stroke: var(--clr-primary);
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
